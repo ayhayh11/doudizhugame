@@ -32,6 +32,7 @@ public class LoginFrame extends JFrame {
      */
     public LoginFrame() {
         initUI();
+        setVisible(true);  // 显示窗口
     }
     
     /**
